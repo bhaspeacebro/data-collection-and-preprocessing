@@ -1,0 +1,7 @@
+To run this script, you need to have the following Python libraries installed:
+
+requests (for fetching data from an API)
+
+pandas (for data manipulation)
+
+scikit-learn (for machine learning preprocessing)
