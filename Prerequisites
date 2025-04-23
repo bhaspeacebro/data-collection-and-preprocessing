@@ -5,3 +5,6 @@ requests (for fetching data from an API)
 pandas (for data manipulation)
 
 scikit-learn (for machine learning preprocessing)
+
+pip install requests pandas scikit-learn
+
